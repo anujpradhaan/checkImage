@@ -1,3 +1,4 @@
+# Note: Minimum Supported version is java7
 # checkImage
 java -jar CheckImage.jar inputFile outputDirectory to run the file
 
